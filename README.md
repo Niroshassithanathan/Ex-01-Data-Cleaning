@@ -40,7 +40,7 @@ df.info()
 df.isnull().sum()
 ~~~
 
-# OUPUT:
+## OUPUT:
 DATA:
 
 ![](./o1.JPG)
